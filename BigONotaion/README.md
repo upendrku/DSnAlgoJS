@@ -13,8 +13,8 @@ Logarithmic time complexity is great!
 Recursion sometimes involves logarithmic space complexity.
 
 Time Complexity
-Best -----------------------> Worst
-O(1) > O(log n) > O(n) > O(nlog n) > O(n^2)
+Best ------------------------------------------------> Worst
+O(1) > O(log n) > O(n) > O(nlog n) > O(n^2) > O(2^n) > O(n!)
 
 Big O of Objects
 Insertion -   O(1)
