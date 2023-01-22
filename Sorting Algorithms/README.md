@@ -79,4 +79,8 @@ Big O of Sorting Algorithms
 Algorithm	    Time Complexity (Best)	    Time Complexity (Average)	    Time Complexity (Worst)	    Space Complexity
 Bubble Sort	            O(n)	                    O(n^2)	                        O(n^2)	                   O(1)
 Insertion Sort	        O(n)	                    O(n^2)	                        O(n^2)	                   O(1)
-Selection Sort	        O(n^2)	                    O(n^2)	                        O(n^2)	                   O(1)
+Selection Sort	        O(n^2)	                  O(n^2)	                        O(n^2)	                   O(1)
+
+
+
+JavaScript by default uses insertion sort for the sort() method. This means that it is not appropriate when sorting large data sets. When dealing with large data sets, one should consider other sorting algorithms such as merge sort.
