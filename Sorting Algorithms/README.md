@@ -1,3 +1,4 @@
+<code>
 Sorting is the process of rearranging the items in a collection (e.g. an array) so that the items are in some kind of order.
 
 JS built-in sort method accepts an optional comparator function
@@ -84,3 +85,4 @@ Selection Sort	        O(n^2)	                  O(n^2)	                        O
 
 
 JavaScript by default uses insertion sort for the sort() method. This means that it is not appropriate when sorting large data sets. When dealing with large data sets, one should consider other sorting algorithms such as merge sort.
+</code>
