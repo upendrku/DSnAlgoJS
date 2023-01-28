@@ -1,3 +1,4 @@
+<code>
 Almost identical to Singly Linked Lists, except every node has another pointer, to the previous node!
 
 PUSHING
@@ -123,4 +124,5 @@ Access -   O(N)
 Technically searching is O(N / 2), but that's still O(N)
 
 DLL is implemented for browser history where we can move to next or prev page at a time.
+</code>
 

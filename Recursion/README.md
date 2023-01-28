@@ -1,3 +1,4 @@
+<code>
 Recursion is used in
 JSON.parse / JSON.stringify
 document.getElementById and DOM traversal algorithms
@@ -30,3 +31,4 @@ function collectOddValues(arr){
     newArr = newArr.concat(collectOddValues(arr.slice(1)));
     return newArr;
 }
+</code>

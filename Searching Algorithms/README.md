@@ -1,3 +1,4 @@
+<code>
 Implement linear search on arrays
 Implement binary search on sorted arrays
 Implement a naive string searching algorithm
@@ -75,3 +76,4 @@ Searching is a very common task that we often take for granted
 When searching through an unsorted collection, linear search is the best we can do
 When searching through a sorted collection, we can find things very quickly with binary search
 KMP provides a linear time algorithm for searches in strings
+</code>

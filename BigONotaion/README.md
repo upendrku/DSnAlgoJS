@@ -1,3 +1,4 @@
+<code>
 Big O Notation is a way to formalize fuzzy counting
 
 It allows us to talk formally about how the runtime of an algorithm grows as the inputs grow.
@@ -63,3 +64,5 @@ Big O Notation can give us a high level understanding of the time or space compl
 Big O Notation doesn't care about precision, only about general trends (linear? quadratic? constant?)
 The time or space complexity (as measured by Big O) depends only on the algorithm, not the hardware used to run the algorithm
 Big O Notation is everywhere, so get lots of practice!
+
+</code>

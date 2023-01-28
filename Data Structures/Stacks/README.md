@@ -1,3 +1,4 @@
+<code>
 WHAT IS A STACK?
 A LIFO data structure!
 The last element added to the stack will be the first element removed from the stack
@@ -59,3 +60,4 @@ Stacks are a LIFO data structure where the last value in is always the first one
 Stacks are used to handle function invocations (the call stack), for operations like undo/redo, and for routing (remember pages you have visited and go back/forward) and much more!
 They are not a built in data structure in JavaScript, but are relatively simple to implement
 Insert and remove are both O(1)
+</code>

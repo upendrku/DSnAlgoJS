@@ -1,3 +1,4 @@
+<code>
 WHAT IS AN ALGORITHM?
 A process or set of steps to accomplish a certain task.
 
@@ -28,3 +29,4 @@ Very useful for keeping track of a subset of data in an array/string etc.
 Divide and Conquer
 This pattern involves dividing a data set into smaller chunks and then repeating a process with a subset of data.
 This pattern can tremendously decrease time complexity
+</code>
