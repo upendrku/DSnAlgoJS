@@ -1,5 +1,6 @@
 <code>
 
+## PRIORITY QUEUE
 Similar to Binary Heaps, except for the fact that Heaps were only having value as only property of class and was storing values only.
 In case here will have class with two properties value as well as priority.
 
