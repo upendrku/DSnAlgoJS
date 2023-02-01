@@ -43,7 +43,7 @@ A--B--C--D--E--F
 |______________|
 
 ADJACENCY MATRIX
--	A	B	C	D	E	F
+_	A	B	C	D	E	F
 A	0	1	0	0	0	1
 B	1	0	1	0	0	0
 C	0	1	0	1	0	0
