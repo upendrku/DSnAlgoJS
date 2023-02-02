@@ -52,6 +52,15 @@ E	0	0	0	1	0	1
 F	1	0	0	0	1	0
 
 ADJACENCY LIST
+  [
+0    [1,5], 
+1    [0,2],
+2    [1,3],
+3    [2,4],
+4    [3,5],
+5    [4,0]
+  ]
+
 {
     A: ["B", "F"],
     B: ["A", "C"],
@@ -62,13 +71,13 @@ ADJACENCY LIST
 }
 
 ## DIFFERENCES & BIG O
-OPERATION	ADJACENCY LIST	ADJACENCY MATRIX
-Add Vertex	    O(1)	        ​O(|V^2|)
-Add Edge	    O(1)	        O(1)
-Remove Vertex	O(|V| + |E|)	​O(|V^2|)
-Remove Edge	    O(|E|)	        O(1)
-Query	        O(|V| + |E|)	O(1)
-Storage	        O(|V| + |E|)	​O(|V^2|)
+OPERATION	      ADJACENCY LIST	    ADJACENCY MATRIX
+Add Vertex	    O(1)	              ​O(|V^2|)
+Add Edge	      O(1)	              O(1)
+Remove Vertex	  O(|V| + |E|)	      ​O(|V^2|)
+Remove Edge	    O(|E|)	            O(1)
+Query	          O(|V| + |E|)	      O(1)
+Storage	        O(|V| + |E|)	      ​O(|V^2|)
 
 ## Adjacency List Vs. Adjacency Matrix
 Adjacency List                                      Adjacency Matrix
