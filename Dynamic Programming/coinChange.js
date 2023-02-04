@@ -1,4 +1,4 @@
-var assert = require('assert');
+const assert = require('assert');
 /*
 Write a function called coinChange which accepts two parameters: an array of denominations and a value. 
 The function should return the number of ways you can obtain the value from the given collection of denominations. 
